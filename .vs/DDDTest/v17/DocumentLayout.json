@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youse\\source\\repos\\DDDTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D115D434-D38B-4C12-A0B4-860E0A9A812B}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\infrastructurelayer\\reposatory\\orderreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D115D434-D38B-4C12-A0B4-860E0A9A812B}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\reposatory\\orderreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D115D434-D38B-4C12-A0B4-860E0A9A812B}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\infrastructurelayer\\context\\dddtestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D115D434-D38B-4C12-A0B4-860E0A9A812B}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\context\\dddtestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D115D434-D38B-4C12-A0B4-860E0A9A812B}|InfrastructureLayer\\InfrastructureLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\infrastructurelayer\\infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D115D434-D38B-4C12-A0B4-860E0A9A812B}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\infrastructurelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\reposatory\\iorderreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\reposatory\\iorderreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderiteminput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderiteminput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderupdateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderupdateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderitemupdateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderitemupdateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723E7AF9-9953-4900-9562-FA1D78E92868}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\aggregat\\orderaggregat\\aggregatinputs\\orderinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E565296B-5790-42CE-8F3D-33E38BFC460D}|Applacationlayer\\Applacationlayer.csproj|c:\\users\\youse\\source\\repos\\dddtest\\applacationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E565296B-5790-42CE-8F3D-33E38BFC460D}|Applacationlayer\\Applacationlayer.csproj|solutionrelative:applacationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderReposatory.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\InfrastructureLayer\\Reposatory\\OrderReposatory.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Reposatory\\OrderReposatory.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\InfrastructureLayer\\Reposatory\\OrderReposatory.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Reposatory\\OrderReposatory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:39:57.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DDDTestContext.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\InfrastructureLayer\\Context\\DDDTestContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Context\\DDDTestContext.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\InfrastructureLayer\\Context\\DDDTestContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Context\\DDDTestContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:37:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureLayer",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\InfrastructureLayer\\InfrastructureLayer.csproj",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\InfrastructureLayer.csproj",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\InfrastructureLayer\\InfrastructureLayer.csproj",
+              "RelativeToolTip": "InfrastructureLayer\\InfrastructureLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T12:34:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderReposatory.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\Reposatory\\IOrderReposatory.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\Reposatory\\IOrderReposatory.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\Reposatory\\IOrderReposatory.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\Reposatory\\IOrderReposatory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:31:46.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderUpdateInput.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderUpdateInput.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderUpdateInput.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderUpdateInput.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderUpdateInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:10:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemUpdateInput.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemUpdateInput.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemUpdateInput.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemUpdateInput.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemUpdateInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T12:09:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderInput.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderInput.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderInput.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderInput.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:53:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItemInput.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemInput.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemInput.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemInput.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\AggregatInputs\\OrderItemInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:40:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\OrderItem.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\OrderItem.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA3wCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:34:59.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\Order.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Aggregat\\OrderAggregat\\Order.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Aggregat\\OrderAggregat\\Order.cs",
+              "RelativeToolTip": "DomainLayer\\Aggregat\\OrderAggregat\\Order.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:34:17.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\DomainLayer\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:31:37.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youse\\source\\repos\\DDDTest\\Applacationlayer\\Program.cs",
+              "RelativeDocumentMoniker": "Applacationlayer\\Program.cs",
+              "ToolTip": "C:\\Users\\youse\\source\\repos\\DDDTest\\Applacationlayer\\Program.cs",
+              "RelativeToolTip": "Applacationlayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:23:25.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
